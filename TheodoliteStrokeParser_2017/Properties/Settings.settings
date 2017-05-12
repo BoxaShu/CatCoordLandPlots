@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TheodoliteStrokeParser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="С_ScaleListParam" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">500;1;1.5;1.5|1000;2;3;4|2000;4;6;8|5000;12;15;16</Value>
+    </Setting>
+    <Setting Name="M_AreaTolerance" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="M_AllAreaTolerance" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.0001</Value>
+    </Setting>
+    <Setting Name="M_StartNumberPoint" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="M_StartNumberCurve" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="V_LayerText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ГИС_ЗУ_текст</Value>
+    </Setting>
+    <Setting Name="V_LayerPoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ГИС_ЗУ_точки</Value>
+    </Setting>
+    <Setting Name="V_LayerPointNumber" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ГИС_ЗУ_точки_номер</Value>
+    </Setting>
+    <Setting Name="V_MleaderCoordStyle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tspCoord</Value>
+    </Setting>
+    <Setting Name="V_MleaderMarkerStyle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tspMarker</Value>
+    </Setting>
+    <Setting Name="V_CoordTransform" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="V_MarkerTransformX" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="V_MarkerTransformY" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">-10</Value>
+    </Setting>
+    <Setting Name="V_BaseCircleRadius" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="V_CoordinatFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">#0.0000</Value>
+    </Setting>
+    <Setting Name="V_MarkerText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">:ЗУ|n| \P S= |s| кв.м</Value>
+    </Setting>
+    <Setting Name="V_MTextMask" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="V_startExcel" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="V_MTextMaskKoefficient" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1.1</Value>
+    </Setting>
+    <Setting Name="M_СoordinateTolerance" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
